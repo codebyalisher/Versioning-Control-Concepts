@@ -2,7 +2,7 @@
 
 **Concept about The Version Control:**
 
-![](media/5fd8c1057f1035ec9eafab5cd9232ff8.jpeg)
+![image](https://github.com/codebyalisher/Versioning-Control-Concepts/assets/62823194/7c428818-a93a-48b8-b284-bfa6f8edfa85)
 
 ✒️
 
